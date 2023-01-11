@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  <img align="right" alt="Alan-gic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/--xHtxTWwcY4/VIcKFSOJR3I/AAAAAAAAL5k/zps_jvwjyQ0/s1600/yoshi%2B6.gif?width=676&height=676">
   
   ##
   
