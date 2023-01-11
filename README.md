@@ -21,10 +21,3 @@
   <a href="https://www.linkedin.com/in/alan-douglas-608567228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-- uses: Platane/snk@master
-id: snake gif
-with:
-  github_user_name: Alanzww
-  gif_out_path: dist/github-contribution-grid-snake.gif
-  svg_out_path: dist/github-contribution-grid-snake.svg
