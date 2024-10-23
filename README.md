@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alan! 👋
 
-- 🔭 Estudante de ensino médio 
-- 🌱 Estudando Python
+- 🔭 Cursando CC na UFC!
+- 🌱 Estudando Python/Java/C
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
